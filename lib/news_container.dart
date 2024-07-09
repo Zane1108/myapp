@@ -11,8 +11,8 @@ class NewsContainer extends StatelessWidget {
         border: Border.all(color: Colors.grey),
         borderRadius: BorderRadius.circular(8.0),
       ),
-      child: Container(
-        child: Stack(
+        child: Container(
+          child: Stack(
           children: [
             Positioned(
               top: 0,
